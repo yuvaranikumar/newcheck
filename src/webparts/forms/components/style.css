@@ -1,0 +1,23 @@
+.custom-details-list {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 3px 10px #888888;
+}
+
+.custom-details-list .ms-DetailsHeader {
+  border-bottom: 1px solid #ccc;
+}
+
+.custom-details-list .ms-DetailsRow-cell {
+  border-bottom: 1px solid #ccc;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 22px;
+}
+
+.space {
+  margin-bottom: 20px; /* Adjust the value as needed */
+}

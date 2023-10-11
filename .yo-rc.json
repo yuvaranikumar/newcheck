@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "adminforms",
+    "libraryId": "c6a0ec6e-4bfb-4909-9621-b727153f306b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "adminforms",
+    "solutionShortDescription": "adminforms description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
